@@ -1,6 +1,6 @@
 # Bridging the Information Gap between Structural and Note level Musical Datasets
 This repository provides supplementary materials for our poster abstract. 
-It does not a complete version of our work.
+It is not a complete repository of all our work.
 
 There are 4 folders.
 1. data: data used by the python scripts
