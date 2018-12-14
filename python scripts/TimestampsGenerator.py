@@ -90,7 +90,7 @@ for parent,dirnames, filenames in os.walk(dirRoot):
                                  line4 = ("   rdfs:label" + ' "' + segmentLabel + '" ;'+ '\n')
                                  line5 = ("   tl:beginsAtDuration " + '"PT' + str(newSt) + 'S"^^xsd:duration' + ' ;' + '\n')
                                  line6 = ("   so:segmentBefore " + segmenturl.strip('> .') + "/" + str(i - 1) + '>'+ ';'+ '\n')
-                                 line7 = ("   so:onSegmentLine" + '"PT' + segmenturl+' .')
+                                 line7 = ("   so:onSegmentLine" + " " + segmenturl+' .')
                                  combo2 = line3 + line4 + line5 + line6 + line7
                                  k.write(combo2)
                            else:
