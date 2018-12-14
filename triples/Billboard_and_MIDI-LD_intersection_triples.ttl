@@ -1,3 +1,5 @@
+PREFIX mo: <http://purl.org/ontology/mo/>
+
 <http://billboard.linkedmusic.org/track/6>
 mo:published_as
 <http://purl.org/midi-ld/pattern/543b17421037f7a7ede6274a0ef8c8e2>.

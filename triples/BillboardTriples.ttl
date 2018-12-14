@@ -1,3 +1,6 @@
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
 <http://billboard.linkedmusic.org/artist/James%20Brown>    foaf:maker <http://billboard.linkedmusic.org/track/3>.
 <http://billboard.linkedmusic.org/track/3>    skos:prefLabel   "I Don't Mind".
 <http://billboard.linkedmusic.org/artist/James%20Brown>    skos:prefLabel   "James Brown".
@@ -576,7 +579,7 @@
 
 <http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    foaf:maker <http://billboard.linkedmusic.org/track/220>.
 <http://billboard.linkedmusic.org/track/220>    skos:prefLabel   "Ramblin' Rose".
-<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   "Nat "King" Cole".
+<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   'Nat "King" Cole'.
 
 <http://billboard.linkedmusic.org/artist/Roberta%20Flack>    foaf:maker <http://billboard.linkedmusic.org/track/221>.
 <http://billboard.linkedmusic.org/track/221>    skos:prefLabel   "Feel Like Makin' Love".
@@ -1328,7 +1331,7 @@
 
 <http://billboard.linkedmusic.org/artist/Evelyn%20%22Champagne%22%20King>    foaf:maker <http://billboard.linkedmusic.org/track/482>.
 <http://billboard.linkedmusic.org/track/482>    skos:prefLabel   "I'm In Love".
-<http://billboard.linkedmusic.org/artist/Evelyn%20%22Champagne%22%20King>    skos:prefLabel   "Evelyn "Champagne" King".
+<http://billboard.linkedmusic.org/artist/Evelyn%20%22Champagne%22%20King>    skos:prefLabel   'Evelyn "Champagne" King'.
 
 <http://billboard.linkedmusic.org/artist/Dr.%20John>    foaf:maker <http://billboard.linkedmusic.org/track/483>.
 <http://billboard.linkedmusic.org/track/483>    skos:prefLabel   "Right Place Wrong Time".
@@ -1408,7 +1411,7 @@
 
 <http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    foaf:maker <http://billboard.linkedmusic.org/track/516>.
 <http://billboard.linkedmusic.org/track/516>    skos:prefLabel   "Those Lazy-Hazy-Crazy Days Of Summer".
-<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   "Nat "King" Cole".
+<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   'Nat "King" Cole'.
 
 <http://billboard.linkedmusic.org/artist/George%20Harrison>    foaf:maker <http://billboard.linkedmusic.org/track/517>.
 <http://billboard.linkedmusic.org/track/517>    skos:prefLabel   "All Those Years Ago".
@@ -1547,7 +1550,7 @@
 <http://billboard.linkedmusic.org/artist/Gary%20U.S.%20Bonds>    skos:prefLabel   "Gary U.S. Bonds".
 
 <http://billboard.linkedmusic.org/artist/Baltimora>    foaf:maker <http://billboard.linkedmusic.org/track/572>.
-<http://billboard.linkedmusic.org/track/572>    skos:prefLabel   "Tarzan Boy (From "Teenage Mutant Ninja Turtles III")".
+<http://billboard.linkedmusic.org/track/572>    skos:prefLabel   'Tarzan Boy (From "Teenage Mutant Ninja Turtles III")'.
 <http://billboard.linkedmusic.org/artist/Baltimora>    skos:prefLabel   "Baltimora".
 
 <http://billboard.linkedmusic.org/artist/Al%20Green>    foaf:maker <http://billboard.linkedmusic.org/track/573>.
@@ -1631,7 +1634,7 @@
 <http://billboard.linkedmusic.org/artist/Alice%20Cooper>    skos:prefLabel   "Alice Cooper".
 
 <http://billboard.linkedmusic.org/artist/Baltimora>    foaf:maker <http://billboard.linkedmusic.org/track/600>.
-<http://billboard.linkedmusic.org/track/600>    skos:prefLabel   "Tarzan Boy (From "Teenage Mutant Ninja Turtles III")".
+<http://billboard.linkedmusic.org/track/600>    skos:prefLabel   'Tarzan Boy (From "Teenage Mutant Ninja Turtles III")'.
 <http://billboard.linkedmusic.org/artist/Baltimora>    skos:prefLabel   "Baltimora".
 
 <http://billboard.linkedmusic.org/artist/Billy%20Swan>    foaf:maker <http://billboard.linkedmusic.org/track/601>.
@@ -1687,7 +1690,7 @@
 <http://billboard.linkedmusic.org/artist/Marvin%20Gaye%2CTammi%20Terrell>    skos:prefLabel   "Marvin Gaye,Tammi Terrell".
 
 <http://billboard.linkedmusic.org/artist/Rod%20Stewart>    foaf:maker <http://billboard.linkedmusic.org/track/620>.
-<http://billboard.linkedmusic.org/track/620>    skos:prefLabel   "Twistin  The Night Away (From "Innerspace")".
+<http://billboard.linkedmusic.org/track/620>    skos:prefLabel   'Twistin  The Night Away (From "Innerspace")'.
 <http://billboard.linkedmusic.org/artist/Rod%20Stewart>    skos:prefLabel   "Rod Stewart".
 
 <http://billboard.linkedmusic.org/artist/Ray%20Parker%20Jr.>    foaf:maker <http://billboard.linkedmusic.org/track/621>.
@@ -2167,7 +2170,7 @@
 <http://billboard.linkedmusic.org/artist/Brenda%20Lee>    skos:prefLabel   "Brenda Lee".
 
 <http://billboard.linkedmusic.org/artist/Eric%20Carmen>    foaf:maker <http://billboard.linkedmusic.org/track/791>.
-<http://billboard.linkedmusic.org/track/791>    skos:prefLabel   "Hungry Eyes (From "Dirty Dancing")".
+<http://billboard.linkedmusic.org/track/791>    skos:prefLabel   'Hungry Eyes (From "Dirty Dancing")'.
 <http://billboard.linkedmusic.org/artist/Eric%20Carmen>    skos:prefLabel   "Eric Carmen".
 
 <http://billboard.linkedmusic.org/artist/Chuck%20Berry>    foaf:maker <http://billboard.linkedmusic.org/track/792>.
@@ -2636,7 +2639,7 @@
 
 <http://billboard.linkedmusic.org/artist/The%20Sopwith%20%22Camel%22>    foaf:maker <http://billboard.linkedmusic.org/track/964>.
 <http://billboard.linkedmusic.org/track/964>    skos:prefLabel   "Hello Hello".
-<http://billboard.linkedmusic.org/artist/The%20Sopwith%20%22Camel%22>    skos:prefLabel   "The Sopwith "Camel"".
+<http://billboard.linkedmusic.org/artist/The%20Sopwith%20%22Camel%22>    skos:prefLabel   'The Sopwith "Camel"'.
 
 <http://billboard.linkedmusic.org/artist/Arthur%20Conley>    foaf:maker <http://billboard.linkedmusic.org/track/965>.
 <http://billboard.linkedmusic.org/track/965>    skos:prefLabel   "Sweet Soul Music".
@@ -2663,7 +2666,7 @@
 <http://billboard.linkedmusic.org/artist/Pat%20Benatar>    skos:prefLabel   "Pat Benatar".
 
 <http://billboard.linkedmusic.org/artist/The%20Beach%20Boys>    foaf:maker <http://billboard.linkedmusic.org/track/974>.
-<http://billboard.linkedmusic.org/track/974>    skos:prefLabel   "Kokomo (From The "Cocktail" Soundtrack)".
+<http://billboard.linkedmusic.org/track/974>    skos:prefLabel   'Kokomo (From The "Cocktail" Soundtrack)'.
 <http://billboard.linkedmusic.org/artist/The%20Beach%20Boys>    skos:prefLabel   "The Beach Boys".
 
 <http://billboard.linkedmusic.org/artist/Isaac%20Hayes>    foaf:maker <http://billboard.linkedmusic.org/track/978>.
@@ -3096,7 +3099,7 @@
 
 <http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    foaf:maker <http://billboard.linkedmusic.org/track/1132>.
 <http://billboard.linkedmusic.org/track/1132>    skos:prefLabel   "Those Lazy-Hazy-Crazy Days Of Summer".
-<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   "Nat "King" Cole".
+<http://billboard.linkedmusic.org/artist/Nat%20%22King%22%20Cole>    skos:prefLabel   'Nat "King" Cole'.
 
 <http://billboard.linkedmusic.org/artist/Smokey%20Robinson>    foaf:maker <http://billboard.linkedmusic.org/track/1133>.
 <http://billboard.linkedmusic.org/track/1133>    skos:prefLabel   "Cruisin'".
